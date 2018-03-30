@@ -21,7 +21,3 @@ npm start
 npm run build
 ```
 
-
-### Credits
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
