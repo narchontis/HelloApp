@@ -1,0 +1,23 @@
+{
+  "description": "NativeScript Application",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "<fill-your-repository-here>"
+  },
+  "nativescript": {
+    "id": "org.nativescript.HelloApp"
+  },
+  "dependencies": {
+    "nativescript-theme-core": "~1.0.4",
+    "tns-core-modules": "~3.4.0"
+  },
+  "name": "helloapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Archontis"
+}
