@@ -1,5 +1,4 @@
-
-var createViewModel = require("./main-view-model").createViewModel;
+import * as vmModule from './main-view-model';
 
 function onNavigatingTo(args) {
     /*
