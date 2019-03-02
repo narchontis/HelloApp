@@ -1,9 +1,17 @@
 {
   "description": "NativeScript Application",
+  "name": "helloapp",
+  "author": "Nick Archontis",
+  "version": "1.0.0",
+  "main": "index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "<fill-your-repository-here>"
+  },
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "nativescript": {
     "id": "org.nativescript.HelloApp",
@@ -15,9 +23,6 @@
     "nativescript-theme-core": "~1.0.4",
     "tns-core-modules": "~3.4.0"
   },
-  "name": "helloapp",
-  "version": "1.0.0",
-  "main": "index.js",
   "devDependencies": {
     "babel-traverse": "6.26.0",
     "babel-types": "6.26.0",
@@ -25,9 +30,5 @@
     "lazy": "1.0.11",
     "nativescript-dev-typescript": "^0.6.0",
     "typescript": "^2.8.1"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Nick Archontis"
+  }
 }
