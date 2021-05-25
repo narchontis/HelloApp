@@ -16,19 +16,19 @@
   "nativescript": {
     "id": "org.nativescript.HelloApp",
     "tns-android": {
-      "version": "4.0.0-rc-2018.3.22.1"
+      "version": "6.5.3"
     }
   },
   "dependencies": {
-    "nativescript-theme-core": "~1.0.4",
-    "tns-core-modules": "~3.4.0"
+    "nativescript-theme-core": "~2.0.24",
+    "tns-core-modules": "~6.5.27"
   },
   "devDependencies": {
     "babel-traverse": "6.26.0",
     "babel-types": "6.26.0",
     "babylon": "6.18.0",
     "lazy": "1.0.11",
-    "nativescript-dev-typescript": "^0.6.0",
-    "typescript": "^2.8.1"
+    "nativescript-dev-typescript": "^0.10.0",
+    "typescript": "^4.2.4"
   }
 }
